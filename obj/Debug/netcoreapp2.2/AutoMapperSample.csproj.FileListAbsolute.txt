@@ -1,0 +1,11 @@
+/Users/burakcaglayan/Projects/AutoMapperSample/bin/Debug/netcoreapp2.2/AutoMapperSample.deps.json
+/Users/burakcaglayan/Projects/AutoMapperSample/bin/Debug/netcoreapp2.2/AutoMapperSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/AutoMapperSample/bin/Debug/netcoreapp2.2/AutoMapperSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/AutoMapperSample/bin/Debug/netcoreapp2.2/AutoMapperSample.dll
+/Users/burakcaglayan/Projects/AutoMapperSample/bin/Debug/netcoreapp2.2/AutoMapperSample.pdb
+/Users/burakcaglayan/Projects/AutoMapperSample/obj/Debug/netcoreapp2.2/AutoMapperSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/AutoMapperSample/obj/Debug/netcoreapp2.2/AutoMapperSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/AutoMapperSample/obj/Debug/netcoreapp2.2/AutoMapperSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/AutoMapperSample/obj/Debug/netcoreapp2.2/AutoMapperSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/AutoMapperSample/obj/Debug/netcoreapp2.2/AutoMapperSample.dll
+/Users/burakcaglayan/Projects/AutoMapperSample/obj/Debug/netcoreapp2.2/AutoMapperSample.pdb
